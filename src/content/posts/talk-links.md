@@ -30,7 +30,7 @@ draft: false
 <p><mark>这应该不是段落</mark></p>
 ```
 
-![](talk-links-1.png)
+<mark>这应该不是段落</mark>
 
 所以，理论来说，将Markdown转换为HTML的渲染器应该都支持HTML代码，而HTML里又支持CSS和Javascript代码，所以CSS和Javascript代码也是同理。
 
