@@ -1,26 +1,27 @@
-# 关于
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
 
-## 用户简介
+# <i class="fa-regular fa-circle-user" style="color: deepskyblue;"></i>关于
+
+## <i class="fa-regular fa-file-lines"  style="color: deepskyblue;"></i>用户简介
 
 你好，我是一名初中生，常用网名为Niceeepoiu，立志让代码像艺术品一样漂亮。
 
-## 技术栈
+## <i class="fa-solid fa-code"  style="color: deepskyblue;"></i>技术栈
 
-- CSS3
-- HTML5
-- Astro
-- Markdown
-- Python
-- ...
+- <i class="fa-brands fa-css3-alt" style="color: deepskyblue;"></i> **CSS3**
+- <i class="fa-brands fa-html5" style="color: deepskyblue;"></i> **HTML5**
+- <i class="fa-solid fa-user-astronaut" style="color: deepskyblue;"></i> **Astro**
+- <i class="fa-brands fa-markdown" style="color: deepskyblue;"></i> **Markdown**
+- <i class="fa-brands fa-python" style="color: deepskyblue;"></i> **Python**
+- <i class="fa-solid fa-ellipsis" style="color: deepskyblue;"></i>
 
-## 联系我
+## <i class="fa-solid fa-phone" style="color: deepskyblue;"></i>联系我
 
-[Github](https://www.github.com/Niceeepoiu)
-​
+[<i class="fa-solid fa-cat"></i>Github](https://www.github.com/Niceeepoiu)
 
-[邮箱](mailto:abefgpoiu@gamil.com)
+[<i class="fa-regular fa-envelope"></i>邮箱](mailto:abefgpoiu@gamil.com)
 
-## GitHub统计数据
+## <i class="fa-solid fa-code-fork"  style="color: deepskyblue;"></i>GitHub统计数据
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Niceeepoiu&theme=minimal)
 
