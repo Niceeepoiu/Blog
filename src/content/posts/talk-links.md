@@ -43,3 +43,7 @@ draft: false
 你还可以这样
 
 [<mark><i class="fa-brands fa-python"></i></mark>](https://www.python.org/)
+
+隐身链接，不会有人找不到吧？
+
+[     ](https://www.python.org/)
