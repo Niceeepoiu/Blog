@@ -15,14 +15,6 @@
 - <i class="fa-brands fa-python" style="color: deepskyblue;"></i> **Python**
 - <i class="fa-solid fa-ellipsis" style="color: deepskyblue;"></i>
 
-## <i class="fa-solid fa-phone" style="color: deepskyblue;"></i>联系我
-
-[<i class="fa-solid fa-cat"></i>Github](https://www.github.com/Niceeepoiu)
-
-[<i class="fa-regular fa-envelope"></i>邮箱](mailto:abefgpoiu@gamil.com)
-
-## <i class="fa-solid fa-code-fork"  style="color: deepskyblue;"></i>GitHub统计数据
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Niceeepoiu&theme=minimal)
+## <i class="fa-solid fa-code-fork"  style="color: deepskyblue;"></i>GitHub
 
 ::github{repo="Niceeepoiu/blog"}
